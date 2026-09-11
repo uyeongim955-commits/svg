@@ -1,7 +1,0 @@
-{
-  // 대시보드의 워커 이름과 동일하게 (예: dawn)
-  "name": "dawn",
-  // 저장소 루트에 있는 워커 코드 파일명. 분리본이면 svg_worker_단톡.js 처럼 실제 파일명으로
-  "main": "svg_worker.js",
-  "compatibility_date": "2025-06-01"
-}
